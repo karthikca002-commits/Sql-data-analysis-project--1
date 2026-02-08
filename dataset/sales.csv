@@ -1,0 +1,6 @@
+﻿order_id,order_date,customer,product,category,quantity,price,region
+101,2024-01-01,Ravi,Laptop,Electronics,22,55000,South
+102,2024-02-01,Anita,Phone,Electronics,2,2000,South
+103,2024-03-01,Ajai,Chair,Furniture,12,3000,North
+104,2024-04-01,Suman,Table,Furniture,15,4500,West
+105,2024-05-01,Majit,Phone,Electronics,2,7000,East
